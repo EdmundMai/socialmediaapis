@@ -1,0 +1,40 @@
+body {
+	margin: 20px auto;
+	width: 1000px;
+
+}
+
+p {
+	border-bottom: 1px dashed black;
+	padding: 5px 0;
+}
+
+#feed {
+	margin:0;
+	padding:0;
+	width: 350px;
+	float: left;
+}
+
+#boxtwo {
+	margin: 0;
+	padding: 0;
+	width: 650px;
+	float: right;
+}
+
+.date { 
+	color:#666;
+}
+
+#feed img {
+	width: 150px;
+	height: 150px;
+	float: left;
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+
+.highlight { 
+	background-color: aqua;
+}
